@@ -1,4 +1,4 @@
----
+![image](https://github.com/Azure-Samples/azure-samples-search-evaluation/assets/49200399/c5cee2a9-e866-41c2-8fd6-6707d2b7d213)---
 page_type: sample
 languages:
   - python
@@ -6,7 +6,7 @@ name: Deploy a dashboard and monitor search performance
 products:
   - azure
   - azure-cognitive-search
-  - azure-application-insights
+  - azure-monitor
 description: |
   Monitor and visualize simulated search engine results using an Application Insights dashboard. This sample uses a Jupyter Notebook to generate simulated log data to simulate search engine user experience
 urlFragment: query-performance-dashboard
